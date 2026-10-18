@@ -3,7 +3,7 @@ RECORD CHECK  -  my version
 ===========================
 
 Name  : Ritesh Shrivastava
-Lane  :  AI / Cyber / IT      (delete two)
+Lane  :   IT      (delete two)
 Date  : 10/03/26
 
 Run it:   python template.py
